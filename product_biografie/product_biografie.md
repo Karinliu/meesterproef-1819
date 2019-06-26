@@ -83,20 +83,27 @@ Externe linken voor afbeeldingen: <br>
 
 ##### Schetsen
 Vanuit het onderzoek zijn er een aantal schetsen ontworpen en uitgewerkt voor de klant, namelijk: <br>
-<img src="./images/schets_1.jpg" alt="Iteratie_Schetsen"> <br>
-*Afbeelding 2.1. Schets CMD 1* <br>
-<img src="./images/schets_2.jpg" alt="Iteratie_Schetsen"> <br>
-*Afbeelding 2.2. Schets CMD 2* <br>
-<img src="./images/schets_3.jpg" alt="Iteratie_Schetsen"> <br>
-*Afbeelding 2.3. Schets CMD 3* <br>
-<img src="./images/schets_4.jpg" alt="Iteratie_Schetsen"> <br>
-*Afbeelding 2.4. Schets CMD.jpg 4* <br>
-<img src="./images/schets_5" alt="Iteratie_Schetsen"> <br>
-*Afbeelding 2.5. Schets CMD 5* <br>
-<img src="./images/schets_6.jpg" alt="Iteratie_Schetsen"> <br>
-*Afbeelding 2.6. Schets CMD 6* <br>
-<img src="./images/schets_7.jpg" alt="Iteratie_Schetsen"> <br>
-*Afbeelding 2.7. Schets CMD 7* <br>
+![Schets_1](./images/./images/schets_1.jpg) <br>
+*Afbeelding 2.1. Schets CMD 1*
+
+![Schets_2](./images/./images/schets_2.jpg) <br>
+*Afbeelding 2.2. Schets CMD 2* 
+
+![Schets_3](./images/./images/schets_3.jpg) <br>
+*Afbeelding 2.3. Schets CMD 3*
+
+![Schets_4](./images/./images/schets_4.jpg) <br>
+*Afbeelding 2.4. Schets CMD.jpg 4*
+
+![Schets_5](./images/./images/schets_5.jpg) <br>
+*Afbeelding 2.5. Schets CMD 5* 
+
+![Schets_6](./images/./images/schets_6.jpg) <br>
+*Afbeelding 2.6. Schets CMD 6* 
+
+![Schets_7](./images/./images/schets_7.jpg) <br>
+*Afbeelding 2.7. Schets CMD 7*
+
 
 ##### Meeting klant
 In het eerste gesprek werd het design en onderzoeksresultaten gepresenteerd aan de klant. Hieruit kwamen een aantal feedback punten:
