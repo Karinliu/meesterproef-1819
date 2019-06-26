@@ -1,68 +1,52 @@
 # Meesterproef 2019 @cmda-minor-web · 2018-2019
 
-In de Meesterproef ga je toepassen wat je in de Minor Webdev hebt geleerd. 
-Voor de Meesterproef krijg je een opdracht van een echte opdrachtgever. 
-Je gaat leren hoe je je geleerde kennis en skils kan gebruiken om een oplossing voor een probleem te ontwerpen. Testen, maken, evalueren
-, testen, maken ...
-Je kan kiezen uit verschillende projecten. Hier ga je 5 weken aan werken
+De vakken die zijn geleerd tijdens de Minor Webdev, die worden toegepast in de Meesterproef
+Voor de Meesterproef wordt er een opdracht gegeven door een echte opdrachtgever. Tijdens de meesterproef wordt geleerd hoe de kennis en skils die eerder zijn opgedaan, gebruikt kan worden om een oplossing voor een probleem te ontwerpen, testen, maken en te evalueren. 
 
-Coaches: Joost Faber, Laurens Aarnoudse, Vasilis van Gemert, Janno Kapritsias en Koop Reynders.
+## De opdracht
+Er waren verschillende projecten waar uit gekozen kan worden, uiteindelijk is de keuze gemaakt om het project Redesign CMD website uit te voeren.
 
-## Werkwijze
+Zie [hier](https://drive.google.com/file/d/1rBurWfk8n9LhiGFRDDUfdoLEBGe04fUW/view) de link naar de opdracht.
 
-Voor de Meesterproef geef je met een eerste en tweede keuze aan welk project je graag wil doen. Daarna wordt door de coaches een indeling gemaakt.  
+## Leerdoelen
+Voor de meesterproef zijn er een aantal leerdoelen uitgekozen. Die waren als volgt: <br>
 
-In de eerste week krijg je een briefing bij de opdrachtgever en schrijf je een debriefing. 
-Dat is de opdracht en de doelstellingen in eigen woorden beschreven. 
-Daarna ga je iedere week een proof-of-concept bespreken met je opdrachtgever. 
-In week 5 presenteer je het eindresultaat tijdens een expositie. 
-Hiervoor moet je ook een passende presentatie maken.
+##### Performance matters
+* **Service worker**: Wanneer de gebruiker geen verbinding heeft met het internet, moeten de belangrijkste pagina's gecached worden en offline nog steeds beschikbaar zijn.
 
-Elke week zijn er 2 coachingsmomenten gepland. 
-Op vrijdag ga je naar de opdrachtgever om je vorderingen te bespreken.
+##### Browser technologies
+* **Feature detection**: De code die is geschreven in CSS die niet in oudere browsers worden gesupported fallbacks voor te schrijven. 
 
-- Maandag/Dinsdag - Debriefing met een van de coaches.
-- Woensdag/Donderdag - Code review met een van de coaches.
-- Vrijdag - Bespreking met de opdrachtgever.
+##### Webdesign
+* **User needs begrijpen en gebruiken in je ontwerp**: Enquêtes afnemen met de doelgroepen en conclusies trekken. Vanuit deze conclusies de belangrijkste bevindingen in het ontwerp te verwerken. 
+* **Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp**: Experimenteren met de verschillende onderwerpen, testen en vervolgens daarop itereren om het ontwerp nog beter te maken.
 
+## Het project
+Om het project te bekijken, kan de volgende link bekeken worden: <br>
 
-## Criteria en beoordeling
+* [CMD-Redesign](https://github.com/maanlamp/cmd-redesign)
 
-Met de Meesterproef laat je zien wat je hebt geleerd tijdens de minor. 
-Studenten die de vakken hebben gehaald kunnen aan de Meesterproef beginnen.
+Voor de live versie kan de volgende link bekeken worden: [Live versie](https://cmd-redesign.herokuapp.com/).
 
-De Meesterproef bestaat uit 3 projectweken en een eindproject van 5 weken. 
-De 3 projectweken, 
-[PW1](https://github.com/cmda-minor-web/project-1-1819), 
-[PW2](https://github.com/cmda-minor-web/project-2-1819) en 
-[PW3](https://github.com/cmda-minor-web/project-3-1819) tellen mee als AVV.
-
-Het eindproject wordt beoordeeld op een Design rationale, een Product biografie en een reflectie op het eigen niveau. 
-Én of de klant blij is met het gemaakte project.
 
 ### Design rationale
-In de Design rationale schrijf je de debriefing, de probleem-definitie, toon je de oplossing en schrijf je een uitleg van de code. 
-De Design rationale is een verantwoording van je ontwerp.
+De design rationale van het project kan met de link hieronder bekeken worden. <br>
+
+* [Productbiografie]()
+
 
 ### Product biografie
-In het eindproject doorloop je een iteratief proces. 
-Elke week bespreek je met je opdrachtgever je vorderingen en ideeen. 
-In de Product biografie hou je stap voor stap bij wat je allemaal hebt gedaan. 
-Je schrijft over het proces, de werkwijze en de planning. 
-Ook schetsen, testen, uitprobeersels en inspiratie zijn deel van de Product biografie.
+Voor het project is er een product biografie geschreven. Zie hier de link naar de productbiografie. <br>
+
+* [Productbiografie]()
 
 ### Reflectie op eigen niveau
-Aan de hand van de vakrubrics reflecteer je systematisch op je werk. 
-In een aantal gesprekken met een coach _reviewen_ we de code van je project. 
-Dit doen we op basis van de rubrics van de verschillende vakken. 
-Zo krijg je een goed beeld van je eigen niveau, mogelijke aandachtspunten en/of aspecten van het design-proces waar je je nog op kan verbeteren.
+Daarnaast is er een reflectie geschreven op eigen niveau. Zie hier de link naar de reflectie op eigen niveau. <br>
 
-### Een blije klant
-Voor de klant maak je een (werkend) prototype. Gericht op een bepaalde gebruikersgroep, geschikt voor verschillende apparaten, met echte data, én een goede UX. 
-Jeweettoch. 
-Een blije klant is een goede klant. 
-Soms ontkom je er niet aan dat je een beetje eigenwijs moet doen. 
-Dan doe je juist niet wat de klant wil en probeer je de opdrachtgever te overtuigen met een proof-of-concept. 
-En soms kan het voorkomen dat het proces niet helemaal soepel loopt. 
-Dat hoort erbij en daar leer je van.
-Aan het eind van het project vragen we de klant feedback op het geleverde werk... 
+* [Reflectie op eigen niveau]()
+
+## Stakeholders
+* Hogeschool van Amsterdam: Klant/opdrachtgever van het project.
+* Bedrijven: Eventuele bedrijven die wil samenwerken met CMD. Zoekende naar stagiaires of het geven evenementen.
+* Aankomende en huidige studenten: Studenten die de opleiding CMD willen doen.
+* CMD docenten: Docenten die les geven op CMD.
