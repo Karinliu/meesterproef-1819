@@ -43,8 +43,7 @@ Na de kick-off werden er als eerste afspraken gemaakt hoe er verder gewerkt zou 
 Ook werd de afspraak gemaakt om te voorkomen dat iemand tegelijk met een ander persoon in hetzelfde bestand gaat werken (om merge conflicts te voorkomen).
 
 ### Mappenstructuur
-Voor de mappenstructuur is elke onderdeel en soort bestand opgesplitst in mappen. 
-<img width="400" src="./images/trello.png" alt="trello">
+Voor de mappenstructuur is elke onderdeel en soort bestand opgesplitst in mappen. <img width="200" src="./images/trello.png" alt="trello">
 
 ##### Codestructuur
 * Er wordt gebruikt gemaakt van NodeJS, Javascript en [Just.js](https://github.com/better-frontend/just.js). <br>
