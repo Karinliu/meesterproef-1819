@@ -83,19 +83,19 @@ Externe linken voor afbeeldingen: <br>
 
 ##### Schetsen
 Vanuit het onderzoek zijn er een aantal schetsen ontworpen en uitgewerkt voor de klant, namelijk: <br>
-<img src="./images/Schets_1" alt="Iteratie_Schetsen"> <br>
+<img src="./images/Schets_1.jpg" alt="Iteratie_Schetsen"> <br>
 *Afbeelding 2.1. Schets CMD 1* <br>
-<img src="./images/Schets_2" alt="Iteratie_Schetsen"> <br>
+<img src="./images/Schets_2.jpg" alt="Iteratie_Schetsen"> <br>
 *Afbeelding 2.2. Schets CMD 2* <br>
-<img src="./images/Schets_3" alt="Iteratie_Schetsen"> <br>
+<img src="./images/Schets_3.jpg" alt="Iteratie_Schetsen"> <br>
 *Afbeelding 2.3. Schets CMD 3* <br>
-<img src="./images/Schets_4" alt="Iteratie_Schetsen"> <br>
-*Afbeelding 2.4. Schets CMD 4* <br>
+<img src="./images/Schets_4.jpg" alt="Iteratie_Schetsen"> <br>
+*Afbeelding 2.4. Schets CMD.jpg 4* <br>
 <img src="./images/Schets_5" alt="Iteratie_Schetsen"> <br>
 *Afbeelding 2.5. Schets CMD 5* <br>
-<img src="./images/Schets_6" alt="Iteratie_Schetsen"> <br>
+<img src="./images/Schets_6.jpg" alt="Iteratie_Schetsen"> <br>
 *Afbeelding 2.6. Schets CMD 6* <br>
-<img src="./images/Schets_7" alt="Iteratie_Schetsen"> <br>
+<img src="./images/Schets_7.jpg" alt="Iteratie_Schetsen"> <br>
 *Afbeelding 2.7. Schets CMD 7* <br>
 
 ##### Meeting klant
@@ -122,7 +122,7 @@ De belangrijkste resultaten  die uit de enquête zijn gekomen, is verwerkt in he
 
 **_Heb je gevonden naar waar je zocht?_**
 Uit de test is gebleken dat 21,2% van de afnemers niet heeft kunnen vinden naar wat zij zochten (zie afbeelding 3.1).
-<img src="./images/enquete_1" alt="enquete_resultaten"> <br>
+<img src="./images/enquete_1.png" alt="enquete_resultaten"> <br>
 *Afbeelding 3.1. Enquete resultaten 1* <br>
 
 **_Wat zou je verwachten van de CMD website_**
@@ -133,7 +133,7 @@ De mensen die de CMD Amsterdam website nooit eerder gebruikt hadden, kregen een 
 4. Sfeerimpressie <br>
 5. Portfolio <br>
 
-<img src="./images/enquete_2" alt="enquete_resultaten"> <br>
+<img src="./images/enquete_2.png" alt="enquete_resultaten"> <br>
 *Afbeelding 3.2. Enquete resultate 2* <br>
 
 **_Wat was makkelijk te vinden op de website?_**
@@ -142,7 +142,7 @@ De mensen die de website al wel eerder gebruikt hadden, kregen dezelfde opties m
 2. Sfeerimpressie <br>
 3. Portfolio <br>
 
-<img src="./images/enquete_3" alt="enquete_resultaten"> <br>
+<img src="./images/enquete_3.png" alt="enquete_resultaten"> <br>
 *Afbeelding 3.3. Enquete resultaten 3* <br>
 
 **_Wat was niet makkelijk te vinden op de website?_**
@@ -150,12 +150,12 @@ Ook werd gevraagd wat minder makkelijk te vinden was (zie afbeelding 3.4). Daar 
 1. Info over specifieke vakken
 2. Rooster
 3. Doorgroeimogelijkheden
-<img src="./images/enquete_4" alt="enquete_resultaten"> <br>
+<img src="./images/enquete_4.png" alt="enquete_resultaten"> <br>
 *Afbeelding 3.4. Enquete resultaten 4* <br>
 
 **_Welk apparaat gebruik je het meest voor web browsing?_**
 Als laatste werd de vraag gesteld apparaat zij het meest gebruiken wanneer ze op internet zitten. Daaruit is gebleken dat de meeste mensen het meest een desktop en/of laptop gebruiken om te browsen. Namelijk 75,8%. Het tweede apparaat wat het meest werd gebruikt is mobiel met 24,2% (zie afbeelding 3.5). <br>
-<img src="./images/enquete_5" alt="enquete_resultaten"> <br>
+<img src="./images/enquete_5.png" alt="enquete_resultaten"> <br>
 *Afbeelding 3.5. Enquete resultaten 5* <br>
 
 ##### Conclusie resultaten
