@@ -2,7 +2,7 @@
 
 ## Planning
 Voor het plannen van het project en een goed overzicht te houden wat er nog gedaan moest worden, is er een Trello board aangemaakt. Daarin zijn alle taken, afspraken en to do's opgeschreven. 
-<img width="400" src="./images/folder.png" alt="trello">
+<img width="200" src="./images/folder.png" alt="trello">
 
 ## Werkwijze
 Tijdens dit project is er gewerkt in een team van 3 personen, [Tjebbe Marchand](https://github.com/tjebbemarchand), [Wouter Lem](https://github.com/maanlamp) en [Karin Liu](https://github.com/maanlamp). Het project was een periode van 5 weken, elke week is er een meeting met de klant en een project coach.
