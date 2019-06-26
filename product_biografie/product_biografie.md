@@ -83,25 +83,25 @@ Externe linken voor afbeeldingen: <br>
 
 ##### Schetsen
 Vanuit het onderzoek zijn er een aantal schetsen ontworpen en uitgewerkt voor de klant, namelijk: <br>
-![Schets_1](./images/./images/schets_1.jpg) <br>
+![Schets_1](./images/schets_1.jpg) <br>
 *Afbeelding 2.1. Schets CMD 1*
 
-![Schets_2](./images/./images/schets_2.jpg) <br>
+![Schets_2](./images/schets_2.jpg) <br>
 *Afbeelding 2.2. Schets CMD 2* 
 
-![Schets_3](./images/./images/schets_3.jpg) <br>
+![Schets_3](./images/schets_3.jpg) <br>
 *Afbeelding 2.3. Schets CMD 3*
 
 ![Schets_4](./images/./images/schets_4.jpg) <br>
 *Afbeelding 2.4. Schets CMD.jpg 4*
 
-![Schets_5](./images/./images/schets_5.jpg) <br>
+![Schets_5](./images/schets_5.jpg) <br>
 *Afbeelding 2.5. Schets CMD 5* 
 
-![Schets_6](./images/./images/schets_6.jpg) <br>
+![Schets_6](./images/schets_6.jpg) <br>
 *Afbeelding 2.6. Schets CMD 6* 
 
-![Schets_7](./images/./images/schets_7.jpg) <br>
+![Schets_7](./images/schets_7.jpg) <br>
 *Afbeelding 2.7. Schets CMD 7*
 
 
