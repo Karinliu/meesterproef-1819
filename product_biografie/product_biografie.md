@@ -83,7 +83,7 @@ Externe linken voor afbeeldingen: <br>
 
 ##### Schetsen
 Vanuit het onderzoek zijn er een aantal schetsen ontworpen en uitgewerkt voor de klant, namelijk: <br>
-![Schets_1](./images/schets_1.jpg) <br>
+![Schets_1](./images/schets1.jpg) <br>
 *Afbeelding 2.1. Schets CMD 1*
 
 ![Schets_2](./images/schets_2.jpg) <br>
