@@ -4,6 +4,8 @@
 Voor het plannen van het project en een goed overzicht te houden wat er nog gedaan moest worden, is er een Trello board aangemaakt. Daarin zijn alle taken, afspraken en to do's opgeschreven. <br>
 <img width="200" src="./images/folder.png" alt="trello">
 
+<img src="./images/trello.png" alt="trello">
+
 ## Werkwijze
 Tijdens dit project is er gewerkt in een team van 3 personen, [Tjebbe Marchand](https://github.com/tjebbemarchand), [Wouter Lem](https://github.com/maanlamp) en [Karin Liu](https://github.com/maanlamp). Het project was een periode van 5 weken, elke week is er een meeting met de klant en een project coach.
 
@@ -44,7 +46,6 @@ Ook werd de afspraak gemaakt om te voorkomen dat iemand tegelijk met een ander p
 
 ### Mappenstructuur
 Voor de mappenstructuur is elke onderdeel en soort bestand opgesplitst in mappen. 
-<img src="./images/trello.png" alt="trello">
 
 ##### Codestructuur
 * Er wordt gebruikt gemaakt van NodeJS, Javascript en [Just.js](https://github.com/better-frontend/just.js). <br>
