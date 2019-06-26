@@ -1,7 +1,7 @@
 # Product biografie
 
 ## Planning
-Voor het plannen van het project en een goed overzicht te houden wat er nog gedaan moest worden, is er een Trello board aangemaakt. Daarin zijn alle taken, afspraken en to do's opgeschreven. 
+Voor het plannen van het project en een goed overzicht te houden wat er nog gedaan moest worden, is er een Trello board aangemaakt. Daarin zijn alle taken, afspraken en to do's opgeschreven. <br>
 <img width="200" src="./images/folder.png" alt="trello">
 
 ## Werkwijze
