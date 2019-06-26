@@ -72,11 +72,9 @@ Het onderzoeksdocument kan bekeken worden op de volgende link: [Onderzoekdsdocum
 ##### Inspiratie
 Naast het onderzoek is er ook inspiratie opgedaan en gevraagd aan mensen om mij heen wat zij mooi vinden als website voor CMD. Hieronder een aantal voorbeelden waaruit inspiratie is gehaald: <br>
 
-<img width="400" src="./images/inspiration_1.jpeg" alt="inspiration">
-<img width="400" src="./images/inspiration_2.jpeg" alt="inspiration">
-<img width="400" src="./images/inspiration_3.png" alt="inspiration">
-<img width="400" src="./images/inspiration_4.jpg" alt="inspiration">
-<img width="400" src="./images/inspiration_5.jpg" alt="inspiration">
+<img width="350" src="./images/inspiration_1.jpeg" alt="inspiration"><img width="350" src="./images/inspiration_2.jpeg" alt="inspiration"> <br>
+<img width="350" src="./images/inspiration_3.png" alt="inspiration"><img width="350" src="./images/inspiration_4.jpg" alt="inspiration"> <br>
+<img width="350" src="./images/inspiration_5.jpg" alt="inspiration">
 
 Externe linken voor afbeeldingen: <br>
 * [Dribble](https://dribbble.com/) <br>
