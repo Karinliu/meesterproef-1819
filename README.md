@@ -23,7 +23,6 @@ Voor de meesterproef zijn er een aantal leerdoelen uitgekozen. Die waren als vol
 
 ## Het project
 Om het project te bekijken, kan de volgende link bekeken worden: <br>
-
 * [CMD-Redesign](https://github.com/maanlamp/cmd-redesign)
 
 Voor de live versie kan de volgende link bekeken worden: [Live versie](https://cmd-redesign.herokuapp.com/).
@@ -31,19 +30,18 @@ Voor de live versie kan de volgende link bekeken worden: [Live versie](https://c
 
 ### Design rationale
 De design rationale van het project kan met de link hieronder bekeken worden. <br>
+* [Design rationale](https://github.com/Karinliu/meesterproef-1819/blob/master/design_rationale/design-rationale.md)
 
-* [Productbiografie]()
 
 
 ### Product biografie
 Voor het project is er een product biografie geschreven. Zie hier de link naar de productbiografie. <br>
+* [Productbiografie](https://github.com/Karinliu/meesterproef-1819/blob/master/product_biografie/product_biografie.md)
 
-* [Productbiografie]()
 
 ### Reflectie op eigen niveau
 Daarnaast is er een reflectie geschreven op eigen niveau. Zie hier de link naar de reflectie op eigen niveau. <br>
-
-* [Reflectie op eigen niveau]()
+* [Reflectie op eigen niveau](https://github.com/Karinliu/meesterproef-1819/blob/master/reflectie_eigen_niveau/reflectie_eigen_niveau.md)
 
 ## Stakeholders
 * Hogeschool van Amsterdam: Klant/opdrachtgever van het project.
