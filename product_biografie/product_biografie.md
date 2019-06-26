@@ -83,25 +83,25 @@ Externe linken voor afbeeldingen: <br>
 
 ##### Schetsen
 Vanuit het onderzoek zijn er een aantal schetsen ontworpen en uitgewerkt voor de klant, namelijk: <br>
-![Schets_1](./images/schets1.jpg) <br>
+![schets_1](https://user-images.githubusercontent.com/32538678/60221335-903ea480-9879-11e9-9f71-374aeb4c2e56.jpg)
 *Afbeelding 2.1. Schets CMD 1*
 
-![Schets_2](./images/schets_2.jpg) <br>
+![schets_2](https://user-images.githubusercontent.com/32538678/60221337-903ea480-9879-11e9-8e16-47b45c6d2c9a.jpg)
 *Afbeelding 2.2. Schets CMD 2* 
 
-![Schets_3](./images/schets_3.jpg) <br>
+![schets_3](https://user-images.githubusercontent.com/32538678/60221338-90d73b00-9879-11e9-8f76-28a8549d5484.jpg)
 *Afbeelding 2.3. Schets CMD 3*
 
-![Schets_4](./images/./images/schets_4.jpg) <br>
+![schets_4](https://user-images.githubusercontent.com/32538678/60221339-90d73b00-9879-11e9-8cdc-58f2dbe86407.jpg)
 *Afbeelding 2.4. Schets CMD.jpg 4*
 
-![Schets_5](./images/schets_5.jpg) <br>
+![schets_5](https://user-images.githubusercontent.com/32538678/60221340-90d73b00-9879-11e9-9ce7-2bb87d7b61b0.jpg)
 *Afbeelding 2.5. Schets CMD 5* 
 
-![Schets_6](./images/schets_6.jpg) <br>
+![schets_6](https://user-images.githubusercontent.com/32538678/60221341-90d73b00-9879-11e9-9d8a-959ce6fd9f68.jpg)
 *Afbeelding 2.6. Schets CMD 6* 
 
-![Schets_7](./images/schets_7.jpg) <br>
+![schets_7](https://user-images.githubusercontent.com/32538678/60221342-916fd180-9879-11e9-9fb8-7e8cd01c5c68.jpg)
 *Afbeelding 2.7. Schets CMD 7*
 
 
